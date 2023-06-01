@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "MISC",
+  "title": "Disconnect Popup Blocker",
+  "manufacturer": "",
+  "creator": "MarcinG",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.32.7",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

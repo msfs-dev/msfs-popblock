@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<SimBase.Document Type="InGamePanels" version="1,0">
+  <Filename>InGamePanel_PopBlock.spb</Filename>
+  <InGamePanels.InGamePanelDefinition id="PANEL_POPBLOCK" ShowOnEvent="PANEL_POPBLOCK_SHOW" HideOnEvent="PANEL_POPBLOCK_HIDE" Name="PopBlock" url="html_UI/ingamePanels/PopBLock_Panel/PopBLock_Panel.html" resizeDirections="Both" defaultWidth="30" defaultHeight="0" defaultTop="1" defaultLeft="1" icon="coui://html_UI/ingamePanels/PopBLock_Panel/PopBLock_Panel.svg" isPanelCloseable="false"
+  buttonVisible="false" headerVisible="false" noBackground="true">
+    <AvailableInDevMode>true</AvailableInDevMode>
+  </InGamePanels.InGamePanelDefinition>
+</SimBase.Document>
